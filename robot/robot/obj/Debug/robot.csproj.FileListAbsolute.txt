@@ -1,0 +1,7 @@
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\bin\Debug\robot.exe.config
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\bin\Debug\robot.exe
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\bin\Debug\robot.pdb
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\obj\Debug\robot.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\obj\Debug\robot.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\obj\Debug\robot.exe
+C:\Users\popad\OneDrive\Desktop\OOP\robot\robot\obj\Debug\robot.pdb
