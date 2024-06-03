@@ -1,0 +1,14 @@
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\bin\Debug\net6.0\Robots.exe
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\bin\Debug\net6.0\Robots.deps.json
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\bin\Debug\net6.0\Robots.runtimeconfig.json
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\bin\Debug\net6.0\Robots.dll
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\bin\Debug\net6.0\Robots.pdb
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.AssemblyInfoInputs.cache
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.AssemblyInfo.cs
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.dll
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\refint\Robots.dll
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.pdb
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\Robots.genruntimeconfig.cache
+C:\Users\popad\OneDrive\Desktop\OOP\Robot\obj\Debug\net6.0\ref\Robots.dll
